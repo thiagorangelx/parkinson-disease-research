@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "job_id": "b4c895e3-2a3c-4fc3-aa7d-8e857dd5bd18",
+  "status": "CANDIDATE",
+  "evidence_status": "METADATA_ONLY",
+  "workspace": "parkinson_research",
+  "searches": [
+    {
+      "query": "Parkinson disease pathophysiology staging symptoms recent review 2023 2024 2025 alpha-synuclein neuroinflammation genetics gut brain axis progression PubMed",
+      "retrieved_at": "2026-10-10T12:18:30.165885+00:00",
+      "pmids": []
+    },
+    {
+      "query": "Parkinson disease[Title] AND review[Publication Type]",
+      "retrieved_at": "2026-10-10T12:47:54.034020+00:00",
+      "pmids": [
+        "42834215",
+        "42734454",
+        "42735501",
+        "42667100",
+        "42615806",
+        "42586469"
+      ]
+    }
+  ],
+  "source_pmids": [
+    "42586469",
+    "42615806",
+    "42667100",
+    "42734454",
+    "42735501",
+    "42834215"
+  ],
+  "screening": "NOT_PERFORMED",
+  "full_text_review": "NOT_PERFORMED",
+  "knowledge_validated": false
+}
